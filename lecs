@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Любовное сообщение</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+        .message {
+            font-size: 24px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="message">
+        Я тебя люблю, Никочка!<br>
+        Ты самая лучшая девочка во вселенной.<br>
+        Я тебя очень сильно люблю.
+    </div>
+</body>
+</html>
